@@ -1,12 +1,12 @@
 {
   "vendor/asus": {
-    "date": "2020-08-05T11:07:41+02:00",
+    "date": "2020-10-28T14:38:05-04:00",
     "deepClone": false,
     "fetchSubmodules": false,
     "leaveDotGit": false,
-    "path": "/nix/store/kf6baqjig8k1v7fa5g1fax9fps1l11jy-proprietary_vendor_asus",
-    "rev": "11d66dc46ae2c3eb73275b0a8243c30f84a39349",
-    "sha256": "0i56n46p15h15vw9pckyyc0im7d3pc494p9m4x0c2s71shh851yg",
+    "path": "/nix/store/8rgw1jxxl4bxqh6z3bydsm9ygiphswgh-proprietary_vendor_asus",
+    "rev": "7dfb3938bad57bcc07ebd2d7e19fd32f25e7390b",
+    "sha256": "1qslnp7r7ddnpnsdf2q0dljpfgiqlg1mjwkawpx32l9ffd14rc40",
     "url": "https://github.com/TheMuppets/proprietary_vendor_asus"
   },
   "vendor/bq": {

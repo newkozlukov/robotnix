@@ -789,5 +789,12 @@
     "name": "Le Pro 3",
     "variant": "userdebug",
     "vendor": "leeco"
+  },
+  "deb": {
+      "branch": "lineage-17.1",
+      "lineage_recovery": true,
+      "name": "Nexus 7 2013 (LTE)",
+      "variant": "userdebug",
+      "vendor": "asus"
   }
 }
