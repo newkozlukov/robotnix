@@ -1,16 +1,29 @@
 {
   "device/asus/deb": {
-      "date": "2020-10-25T23:24:29+03:00",
-      "deepClone": false,
-      "deps": [
-          "kernel/google/msm"
-      ],
-      "fetchSubmodules": false,
-      "leaveDotGit": false,
-      "path": "/nix/store/sz3p7wqcbv3l969k9kigz5a489vdzljp-android_device_asus_deb-25c5951",
-      "url": "https://github.com/LineageOS/android_device_asus_deb",
-      "rev": "25c59513a0ec447dbc6fdec94388e15eb3367606",
-      "sha256": "14qvlpv76dmr7jci1xpal5qp79ap6ily0cjmww4i7v8pmqbbq9jl"
+    "date": "2020-10-30T01:44:48+03:00",
+    "deepClone": false,
+    "deps": [
+      "device/asus/flo"
+    ],
+    "fetchSubmodules": false,
+    "leaveDotGit": false,
+    "path": "/nix/store/yap21i11vynacs7l5j7n2b5f0hhq713i-android_device_asus_deb",
+    "rev": "743c68e0addcfd36471ec8f1f00c403046a35b70",
+    "sha256": "1amgbwnr64bqjzvlzsbl3nr13hjii93m9bm0ldmfxyz6jrf0w1z1",
+    "url": "https://github.com/newkozlukov/android_device_asus_deb"
+  },
+  "device/asus/flo": {
+    "date": "2020-10-26T01:36:47-04:00",
+    "deepClone": false,
+    "deps": [
+      "kernel/google/msm"
+    ],
+    "fetchSubmodules": false,
+    "leaveDotGit": false,
+    "path": "/nix/store/2lshwx6q9wl7am7x5dqz8y0kyypdpgvd-android_device_asus_flo",
+    "rev": "f10c74f005e45395acee91b8323ebbaf5ff5d8cd",
+    "sha256": "13zqn6jd253g0lq3k2rr5h8fqf5hnv5xs1k16kmrhgxwgd0lczgv",
+    "url": "https://github.com/LineageOS/android_device_asus_flo"
   },
   "device/asus/I001D": {
     "date": "2020-07-24T18:00:39+02:00",
@@ -2335,15 +2348,15 @@
     "url": "https://github.com/LineageOS/android_kernel_google_marlin"
   },
   "kernel/google/msm": {
-      "date": "2020-10-25T23:24:29+03:00",
-      "deepClone": false,
-      "deps": [],
-      "fetchSubmodules": false,
-      "leaveDotGit": false,
-      "path": "/nix/store/579qyjnbf55sq5yq487a1dp3nilcd34b-android_kernel_google_msm-77157df",
-      "rev": "77157df7317f291dbf3b73cef651f918c391eb63",
-      "sha256": "1gh2jj1crsixh12lw7hvn33rq84hyxmaryhlzq98anm7832fa33q",
-      "url": "https://github.com/LineageOS/android_kernel_google_msm"
+    "date": "2020-10-25T02:45:30-04:00",
+    "deepClone": false,
+    "deps": [],
+    "fetchSubmodules": false,
+    "leaveDotGit": false,
+    "path": "/nix/store/kl1k8pjvrcai7dcig8ca7zk35q7d03wv-android_kernel_google_msm",
+    "rev": "77157df7317f291dbf3b73cef651f918c391eb63",
+    "sha256": "1gh2jj1crsixh12lw7hvn33rq84hyxmaryhlzq98anm7832fa33q",
+    "url": "https://github.com/LineageOS/android_kernel_google_msm"
   },
   "kernel/google/msm-4.9": {
     "date": "2020-08-12T18:32:16-04:00",
