@@ -1,15 +1,15 @@
 {
   "device/asus/deb": {
-    "date": "2020-10-30T01:44:48+03:00",
+    "date": "2020-10-30T02:28:26+03:00",
     "deepClone": false,
     "deps": [
       "device/asus/flo"
     ],
     "fetchSubmodules": false,
     "leaveDotGit": false,
-    "path": "/nix/store/yap21i11vynacs7l5j7n2b5f0hhq713i-android_device_asus_deb",
-    "rev": "743c68e0addcfd36471ec8f1f00c403046a35b70",
-    "sha256": "1amgbwnr64bqjzvlzsbl3nr13hjii93m9bm0ldmfxyz6jrf0w1z1",
+    "path": "/nix/store/bhm68mx610ylsi9cs41brh3rnh43zcml-android_device_asus_deb",
+    "rev": "b17c78e544556a42aa2e62180f30e24d67285d7f",
+    "sha256": "03cw5jpshpaldqsmzsbgwan5cc78pci1vvdaiw98zvg37aw69qdh",
     "url": "https://github.com/newkozlukov/android_device_asus_deb"
   },
   "device/asus/flo": {
